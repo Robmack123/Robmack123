@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **I was a professional trumpet player before starting my software developer journey!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on  [Linkedin](https://www.linkedin.com/in/robert--mack/)
+</h3>
 <p align="left">
 </p>
 
