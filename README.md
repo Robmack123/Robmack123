@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **robertmack123123@gmail.com**
 
-- 📄 Check out my resume [here]([https://drive.google.com/file/d/1oOQS6QjOCZjn_jhKhYOsRUpXky13f3rq/view?usp=sharing](https://drive.google.com/file/d/14ftSlcizp_x1LM_xLB2CnQp5wN8BG6Az/view?usp=sharing))!
+- 📄 Check out my resume [here](https://drive.google.com/file/d/14ftSlcizp_x1LM_xLB2CnQp5wN8BG6Az/view?usp=sharing)!
 
 - ⚡ Fun fact **I was a professional trumpet player before starting my software developer journey!**
 
