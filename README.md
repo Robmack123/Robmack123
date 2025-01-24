@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Mack</h1>
 <h3 align="center">A passionate full stack developer from Nashville, Tennessee</h3>
 
-- ⚔️ I’m currently working on [Miniature Menagerie](https://github.com/Robmack123/Miniature-Menagerie)
+- ⚔️ I’m currently working on [Pantry Sync](https://github.com/Robmack123/PantryTracker)
 
 - 🌱 I’m currently learning **C# and the .NET framwork**
 
